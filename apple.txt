@@ -2,5 +2,4 @@ who
 am 
 i
 shahul added now
-/usr/bin/bash: q: command not found
-/usr/bin/bash: q: command not found
+hameed - added name 
