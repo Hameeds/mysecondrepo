@@ -1,7 +1,0 @@
-pen
-pencil
-box
-lap br1
-book br1
-lap br2
-book br2
